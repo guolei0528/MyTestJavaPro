@@ -11,7 +11,6 @@ public class Main {
 		innerGD.readLabel();
 		System.out.println("--------------------");
 		System.out.println("--------------------");
-		System.out.println("--------------------");
 		p.cont().value();
 		p.dest("南京").readLabel();
 	}
