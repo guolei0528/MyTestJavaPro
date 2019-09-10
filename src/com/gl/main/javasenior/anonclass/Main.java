@@ -10,6 +10,7 @@ public class Main {
 		Goods.GDestination innerGD = p.new GDestination("北京");
 		innerGD.readLabel();
 		System.out.println("--------------------");
+		System.out.println("--------------------");
 		p.cont().value();
 		p.dest("南京").readLabel();
 	}
